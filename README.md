@@ -1,3 +1,4 @@
 # proba
-Ez egy próba git
+Ez egy próba git.
+
 ...
